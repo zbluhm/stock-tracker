@@ -12,6 +12,6 @@ public class DbTest {
         Statement st = null;
         ResultSet rs = null;
 
-        System.out.println("Hello");
+
     }
 }
