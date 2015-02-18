@@ -10,6 +10,7 @@ import java.util.logging.Level;
  * Created by ZachBluhm on 2/17/15.
  */
 public class DbTest {
+
     public static void main(String[]args) {
 
         Connection con = null;
@@ -49,4 +50,5 @@ public class DbTest {
             }
         }
     }
+
 }

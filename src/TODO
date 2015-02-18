@@ -1,0 +1,20 @@
+TODO
+
+1.) Raw database
+	a.) .csv files
+	b.) Yahoo api
+	
+2.) Processor
+	a.) Goes through historical and find runs
+	b.) Find historical stock fundamentals (beta, eps, p/e...)
+		i.) find regressions
+		
+3.) Short-term database
+	a.) identifies potential runs
+   *b.) for experiment, find percentage accurate
+ 	c.) updates historical database
+ 	
+ 	
+ ******
+ Ideas:
+ -trending twitter companies? social media
